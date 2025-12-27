@@ -1,0 +1,7 @@
+{
+  "name": "101Purifik Clean - Corporate Workforce & Cleaning Solutions",
+  "description": "A production-ready platform for corporate cleaning services and workforce management, featuring AI-powered cost estimation and operations dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
